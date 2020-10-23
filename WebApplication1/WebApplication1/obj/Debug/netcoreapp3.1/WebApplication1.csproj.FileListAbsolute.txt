@@ -1,0 +1,40 @@
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.exe
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.deps.json
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.runtimeconfig.json
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.runtimeconfig.dev.json
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.dll
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.pdb
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csprojAssemblyReference.cache
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfoInputs.cache
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfo.cs
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csproj.CoreCompileInputs.cache
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.RazorTargetAssemblyInfo.cache
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication1.StaticWebAssets.Manifest.cache
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication1.StaticWebAssets.xml
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.dll
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.pdb
+C:/Users/Jimena/source/repos/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.genruntimeconfig.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/appsettings.json
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.deps.json
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.runtimeconfig.json
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.runtimeconfig.dev.json
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.dll
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/bin/Debug/netcoreapp3.1/WebApplication1.pdb
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csprojAssemblyReference.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfoInputs.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.AssemblyInfo.cs
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.csproj.CoreCompileInputs.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.RazorTargetAssemblyInfo.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication1.StaticWebAssets.Manifest.cache
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication1.StaticWebAssets.xml
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.dll
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.pdb
+/home/rodframeh/[Occupation Areas]/[SmartReasons][SDelivery]/espacial/WebApplication1/WebApplication1/obj/Debug/netcoreapp3.1/WebApplication1.genruntimeconfig.cache
